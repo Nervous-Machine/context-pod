@@ -8,6 +8,7 @@ Agents build their world model autonomously -- observing, learning, updating cer
 - Full docs: [https://context.nervousmachine.com/docs](https://context.nervousmachine.com/docs)
 - Landing page: [https://context.nervousmachine.com](https://context.nervousmachine.com)
 - Substack: [https://nervousmachine.substack.com](https://nervousmachine.substack.com)
+- Research: [https://www.techrxiv.org](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176108345.54191779/v1)
 
 **Agents build autonomously. Humans align naturally.**
 
