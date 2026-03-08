@@ -12,7 +12,7 @@ Pods solve this.
 
 ## What's a Pod?
 
-A pod is a lightweight knowledge graph (~1KB per finding) that tracks:
+A pod is a lightweight graph prior (~1KB per finding) that tracks:
 
 - **What an agent knows** — causal vectors encoding findings, claims, and patterns
 - **How certain it is** — certainty score (Z) from 0.0 to 1.0, updated by evidence
